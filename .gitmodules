@@ -4,3 +4,6 @@
 [submodule "StyleManager"]
 	path = StyleManager
 	url = https://github.com/sigcorporativo-ja/StyleManager.git
+[submodule "Mapea4-dev"]
+	path = Mapea4-dev
+	url = https://github.com/fbma/Mapea4-dev.git
